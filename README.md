@@ -61,7 +61,7 @@ votes, runtime, directors, and gross revenue. The dataset reflects modern IMDb u
 
 ### **Visualization**
 Custom Matplotlib charts were created in Google Colab, including stylistic variants inspired by
-1980s aesthetics (e.g., VHS video store, neon themes). Charts were exported using:
+1980s aesthetics (e.g., VHS video store, neon themes).
 
 ## Conclusion
 
