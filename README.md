@@ -28,7 +28,7 @@ rank films by long-term audience reception rather than original box-office perfo
 > 9. Possession  
 > 10. Poltergeist
 
----
+![Top 10 80s Horror](vhs80s.png)---
 
 ## 🧹 Methods
 
