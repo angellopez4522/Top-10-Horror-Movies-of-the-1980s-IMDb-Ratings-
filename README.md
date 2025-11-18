@@ -10,7 +10,7 @@ according to modern viewers and to explore which cinematic qualities have allowe
 
 ---
 
-## 📊 Top 10 Horror Films of the 1980s (IMDb Ratings)
+## Top 10 Horror Films of the 1980s (IMDb Ratings)
 
 Below is the primary visualization generated from the dataset, representing the ten highest-rated horror 
 films released between 1980 and 1989. The chart uses contemporary IMDb user scores and vote counts to 
@@ -30,7 +30,13 @@ rank films by long-term audience reception rather than original box-office perfo
 
 ![Top 10 80s Horror](vhs80s.png)---
 
-## 🧹 Methods
+## Findings
+
+The final Top 10 list demonstrates how 1980s horror has aged in the eyes of modern viewers. The Shining stands firmly at the top, widely regarded as a psychological masterpiece whose influence continues to shape the genre. Films that initially received mixed reactions such as The Thing and The Evil Dead, have since undergone substantial critical reevaluation, rising to become some of the decade’s most celebrated works.
+
+The ranking highlights a diverse range of horror styles, from psychological terror (The Shining, Possession) to creature effects (The Fly, The Thing) to supernatural classics (Poltergeist). These results show that the films with the strongest long-term reception are those that blended atmosphere, innovation, and memorable practical effects. This suggests that the 1980s remain a defining era for horror, with many films achieving greater appreciation decades after their theatrical debut.
+
+## Methods
 
 ### **Data Source**
 The dataset used (`IMDb Horror: Chilling Movie Dataset') contains movie titles, release years, genres, IMDb ratings, 
@@ -57,5 +63,6 @@ votes, runtime, directors, and gross revenue. The dataset reflects modern IMDb u
 Custom Matplotlib charts were created in Google Colab, including stylistic variants inspired by
 1980s aesthetics (e.g., VHS video store, neon themes). Charts were exported using:
 
-```python
-plt.savefig("top10_80s.png", dpi=300, bbox_inches='tight')
+## Conclusion
+
+This project shows that the 1980s remain one of the most influential eras in horror cinema. Films that were once polarizing or underappreciated have risen to the top through decades of reassessment, fan engagement, and the lasting impact of practical effects and bold storytelling. Modern IMDb ratings paint a picture of a decade defined by experimentation, atmosphere, and innovation qualities that continue to resonate with viewers today.
