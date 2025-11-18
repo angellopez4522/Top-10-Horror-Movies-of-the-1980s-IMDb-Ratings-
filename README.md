@@ -39,9 +39,14 @@ The ranking highlights a diverse range of horror styles, from psychological terr
 ## Methods
 
 ### **Data Source**
-The dataset used (`IMDb Horror: Chilling Movie Dataset') contains movie titles, release years, genres, IMDb ratings, 
-votes, runtime, directors, and gross revenue. The dataset reflects modern IMDb user ratings rather than 
-1980s audience reactions.
+This project uses the IMDb Horror: Chilling Movie Dataset, created by ShreyanshVerma27 and published on Kaggle.
+The dataset contains movie titles, release years, genres, IMDb ratings, vote counts, runtime, directors, and gross revenue for a wide range of horror films.
+
+Dataset link:
+https://www.kaggle.com/datasets/shreyanshverma27/imdb-horror-chilling-movie-dataset
+
+License:
+CC0: Public Domain
 
 ### **Data Cleaning**
 - Column names were normalized by converting all names to lowercase and replacing spaces with underscores.
